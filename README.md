@@ -1,1 +1,1 @@
-https://nbviewer.org/github/idenproject/test/blob/cefad7dca4dc10f5038659ca504c13aca9a4e6cf/subquest1_solution.ipynb
+https://nbviewer.org/github/idenproject/test/blob/63be5084afd71c23a4ef0bbd12399cd28e4c6d24/subquest1_solution.ipynb
